@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/doctrine-cache-bundle",
+    "name": "atheon/doctrine-cache-bundle",
     "homepage": "https://www.doctrine-project.org",
     "description": "Symfony Bundle for Doctrine Cache",
     "keywords": ["cache", "caching"],
@@ -32,7 +32,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.1|^8.0",
         "symfony/doctrine-bridge": "^3.4|^4.0",
         "doctrine/inflector": "^1.0",
         "doctrine/cache": "^1.4.2"
